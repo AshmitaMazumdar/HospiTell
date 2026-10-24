@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+.venv/
+
+config.json
+config.json
+bin/solc-output-compile-all.json
+bin/contracts/MedicalData-solc-output.json
+medical_records_temp/AOT_Hackathon_Project_Plan.pdf
+medical_records_temp/aot_resume.pdf
+config.json
+
+.env
+instance/
+*.db
+__pycache__/
+*.pyc
